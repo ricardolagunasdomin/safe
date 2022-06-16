@@ -1,0 +1,19 @@
+body {
+    background-color: #8C5355;
+ }
+ p {
+     color: black;
+     width: 350px;
+     font-size: 20px;
+ }
+ h1 {
+     color: black;
+ }
+ section {
+     float:left;
+     margin: 13px;
+ }
+ image {
+     margin: 20px;
+ }
+ 
